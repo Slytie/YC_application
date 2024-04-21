@@ -34,7 +34,7 @@ Please note that the code was not cleaned up before putting into the repository,
 ## Probabilistic Programming
 - Defines a stochastic process model using Pyro for tasks requiring uncertainty quantification and model flexibility.
 
-## Extending GP to Include Multi-Model Distributions
+## Extending GP to Include Multi-Modal Distributions
 - Enhances Gaussian Process models to handle complex and heterogeneous data by accommodating multi-modal distributions.
 
 ## Bayesian Conditional Neural Processes
