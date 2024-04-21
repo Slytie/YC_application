@@ -7,9 +7,6 @@ Please note that the code was not cleaned up before putting into the repository,
 ## Latent CNP
 - Focuses on Conditional Neural Processes with latent variables for efficient learning from context data and uncertainty representation.
 
-## Quantum coin
-- Simulates a quantum walk on a grid, demonstrating quantum computing concepts like superposition, quantum gates, and environmental interactions.
-
 ## Dirichlet Processes
 - Implements a multidimensional Dirichlet Process using stick-breaking processes for clustering or density estimation with an unknown number of underlying groups.
 
@@ -35,8 +32,14 @@ Please note that the code was not cleaned up before putting into the repository,
 - Defines a stochastic process model using Pyro for tasks requiring uncertainty quantification and model flexibility.
 
 ## Extending GP to Include Multi-Modal Distributions
-- Enhances Gaussian Process models to handle complex and heterogeneous data by accommodating multi-modal distributions.
+- Enhances Gaussian Process models to handle complex and heterogeneous data by accommodating multi-modal distributions using an eigenvalue decomposition approach
 
 ## Bayesian Conditional Neural Processes
 - Combines Bayesian principles with neural processes for tasks requiring adaptation to new data and uncertainty quantification.
 
+## Quantum coin
+- Simulates a quantum walk on a grid, demonstrating quantum computing concepts like superposition, quantum gates, and environmental interactions.
+
+
+- ## Basic Time Evolutionary Operator
+- Focuses on a learnable time evolution oeprator
