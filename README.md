@@ -41,5 +41,5 @@ Please note that the code was not cleaned up before putting into the repository,
 - Simulates a quantum walk on a grid, demonstrating quantum computing concepts like superposition, quantum gates, and environmental interactions.
 
 
-- ## Basic Time Evolutionary Operator
+## Basic Time Evolutionary Operator
 - Focuses on a learnable time evolution oeprator
