@@ -19,6 +19,9 @@ Please note that the code was not cleaned up before putting into the repository,
 ## Crank Nelson Net
 - Explores advanced numerical solutions to create learnable stochastic differential equations using modern neural network approaches.
 
+## Snakes and Ladders using probabilistic programming
+-Using probabilistic programming in the context of reinforcement learning to play the game snakes and ladders
+
 ## Cause Effect Probabilistic Programming
 - Models relationships between cause and effect variables using probabilistic programming techniques with PyMC3.
 
