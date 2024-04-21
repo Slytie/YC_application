@@ -32,7 +32,7 @@ Please note that the code was not cleaned up before putting into the repository,
 - Defines a stochastic process model using Pyro for tasks requiring uncertainty quantification and model flexibility.
 
 ## Extending GP to Include Multi-Modal Distributions
-- Enhances Gaussian Process models to handle complex and heterogeneous data by accommodating multi-modal distributions using an eigenvalue decomposition approach
+- Enhances Gaussian Process models to handle multi-modal distributions using an eigenvalue decomposition approach
 
 ## Bayesian Conditional Neural Processes
 - Combines Bayesian principles with neural processes for tasks requiring adaptation to new data and uncertainty quantification.
