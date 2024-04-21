@@ -1,6 +1,6 @@
 # Progression to Quantum Neural Processes
 
-This repository contains a collection of AI models and methodologies implemented in Python to solve the problem of looking for a AI model that provides an invertible stochastic mapping in a coordinate frame. 
+This repository contains a collection of AI models and methodologies implemented in Python to solve the problem of finding an AI model that provides an invertible stochastic mapping in a coordinate frame. 
 
 Please note that the code was not cleaned up before putting into the repository, the research into different models was done quickly to efficiently test different approaches
 
